@@ -1,4 +1,4 @@
-<!-- Category: Original;HTML/CSS/JS;C# -->
+<!-- Category: 3D;HTML/CSS/JS -->
 # Address Book
 
 Displays a 3D animation created with the three.js editor
