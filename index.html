@@ -41,7 +41,7 @@
 
 			var loader = new THREE.FileLoader();
 			loader.load('app.json', function (text) {
-				var player = new APP.Player();
+				var player = new APP.Player({alpha: true});
 				player.load(JSON.parse(text));
 				player.setSize(window.innerWidth, window.innerHeight);
 				player.play();
