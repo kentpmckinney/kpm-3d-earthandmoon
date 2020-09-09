@@ -1,4 +1,6 @@
 <!-- Category: 3D;HTML/CSS/JS -->
+<!-- Portfolio: Yes -->
+
 # Address Book
 
 Displays a 3D animation created with the three.js editor
